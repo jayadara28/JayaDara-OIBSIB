@@ -1,0 +1,27 @@
+body{
+  padding: 80px;
+  font-family: Times New Roman;
+  font-size:  18px;
+  
+}
+.container{
+  background-color:aqua;
+  padding: 10px;
+  border : 5px solid rgb(18, 15, 15);
+}
+.head1{
+  padding-top:50px;
+  text-align: center;
+  font-style: oblique;
+}
+.head3{
+    text-align: center;
+}
+.text-edit{
+  font-family:Verdena;
+  font-size:20px;
+  text-align: center;
+}
+.img-edit{
+  text-align: center;
+}
